@@ -8,6 +8,10 @@ this is example to show different parts of the git reposiotry and various comman
 
 ## Purpose 
 
+as stated above, the main puropose is to provide simple examples for git training 
+
 ## Deployment
+
+this is example to show different parts of the git reposiotry and various commands using a web project.
 
 ## How to contribute
