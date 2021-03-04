@@ -16,6 +16,8 @@ this is example to show different parts of the git reposiotry and various comman
 
 ## How to contribute
 
+please for this repo
+
 ## CopyRight
 
 2014 Git.Training.
